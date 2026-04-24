@@ -1,3 +1,3 @@
-Name: Fahad Imran
-Course code: CSC101 - Applications of Information and Communication Technologies
+Name: Fahad Imran,
+Course code: CSC101,
 Section: ELC-1A
